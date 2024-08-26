@@ -1,0 +1,6 @@
+@learn_grpc_gateway_HostAddress = http://localhost:5234
+
+GET {{learn_grpc_gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

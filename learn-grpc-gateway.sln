@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn-grpc-gateway", "learn-grpc-gateway.csproj", "{8BE278BC-40C6-4A53-BC02-FE8CAD700D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn-grpc-metier", "..\learn-grpc-metier\learn-grpc-metier.csproj", "{B1CA8A66-8A7F-4155-BCC1-68D0E90E2093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE278BC-40C6-4A53-BC02-FE8CAD700D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE278BC-40C6-4A53-BC02-FE8CAD700D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE278BC-40C6-4A53-BC02-FE8CAD700D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE278BC-40C6-4A53-BC02-FE8CAD700D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CA8A66-8A7F-4155-BCC1-68D0E90E2093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA8A66-8A7F-4155-BCC1-68D0E90E2093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA8A66-8A7F-4155-BCC1-68D0E90E2093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA8A66-8A7F-4155-BCC1-68D0E90E2093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE72BF3-6ACB-45A0-9E4C-25276205BFFC}
+	EndGlobalSection
+EndGlobal
